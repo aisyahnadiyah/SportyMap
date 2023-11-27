@@ -1,0 +1,29 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "aisyah",
+      "nim": "21/473011/SV/18795",
+      "kelas": "A",
+      "icon": "pastafarianism",
+      "color": "860A35"
+    },
+    {
+      "nama": "yayskuyyy",
+      "nim": "21/473011/SV/18795",
+      "kelas": "A",
+      "icon": "pastafarianism",
+      "color": "860A35",
+      "id": 2
+    },
+    {
+      "name": "aisyah nadiyah rusdiana",
+      "nim": "21/123456/FK/473011",
+      "kelas": "A",
+      "jeniskelamin": "PEREMPUAN",
+      "color": "860A35",
+      "icon": "pastafarianism",
+      "id": 3
+    }
+  ]
+}
